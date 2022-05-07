@@ -1,4 +1,4 @@
-package uk.co.lucystevens.api
+package uk.hackthis.api
 
 import io.javalin.http.Context
 import io.mockk.every

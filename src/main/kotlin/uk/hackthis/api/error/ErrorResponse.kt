@@ -1,4 +1,4 @@
-package uk.co.lucystevens.api.error
+package uk.hackthis.api.error
 
 data class ErrorResponse(
     val title: String,

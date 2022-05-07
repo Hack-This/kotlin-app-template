@@ -1,14 +1,14 @@
-package uk.co.lucystevens.config
+package uk.hackthis.config
 
-import uk.co.lucystevens.cli.AppRunner
+import uk.hackthis.cli.AppRunner
 import org.koin.dsl.module
 import org.ktorm.database.Database
 import org.ktorm.support.postgresql.PostgreSqlDialect
-import uk.co.lucystevens.api.AdminApi
-import uk.co.lucystevens.api.ExampleApi
-import uk.co.lucystevens.api.InfoApi
-import uk.co.lucystevens.api.RouteController
-import uk.co.lucystevens.api.error.ErrorHandler
+import uk.hackthis.api.AdminApi
+import uk.hackthis.api.ExampleApi
+import uk.hackthis.api.InfoApi
+import uk.hackthis.api.RouteController
+import uk.hackthis.api.error.ErrorHandler
 import java.time.Clock
 import kotlin.random.Random
 

@@ -1,4 +1,4 @@
-package uk.co.lucystevens.api.error
+package uk.hackthis.api.error
 
 import com.fasterxml.jackson.module.kotlin.MissingKotlinParameterException
 import io.javalin.http.Context

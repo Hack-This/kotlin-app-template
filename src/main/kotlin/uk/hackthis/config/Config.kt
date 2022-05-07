@@ -1,4 +1,4 @@
-package uk.co.lucystevens.config
+package uk.hackthis.config
 
 class Config {
 

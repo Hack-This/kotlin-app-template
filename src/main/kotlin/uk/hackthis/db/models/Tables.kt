@@ -1,4 +1,4 @@
-package uk.co.lucystevens.db.models
+package uk.hackthis.db.models
 
 
 // TODO define database tables like below

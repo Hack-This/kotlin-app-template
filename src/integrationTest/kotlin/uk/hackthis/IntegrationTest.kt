@@ -1,4 +1,4 @@
-package uk.co.lucystevens
+package uk.hackthis
 
 import org.junit.jupiter.api.Test
 import org.ktorm.database.Database

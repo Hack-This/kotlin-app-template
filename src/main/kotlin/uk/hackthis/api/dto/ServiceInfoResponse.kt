@@ -1,4 +1,4 @@
-package uk.co.lucystevens.api.dto
+package uk.hackthis.api.dto
 
 data class ServiceInfoResponse (
     val name: String,

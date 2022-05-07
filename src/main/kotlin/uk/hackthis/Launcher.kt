@@ -1,6 +1,6 @@
-package uk.co.lucystevens
+package uk.hackthis
 
-import uk.co.lucystevens.config.Modules
+import uk.hackthis.config.Modules
 import org.koin.core.context.startKoin
 
 fun main(args: Array<String>) {

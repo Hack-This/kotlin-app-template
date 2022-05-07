@@ -1,7 +1,7 @@
-package uk.co.lucystevens.cli
+package uk.hackthis.cli
 
-import uk.co.lucystevens.api.RouteController
-import uk.co.lucystevens.logger
+import uk.hackthis.api.RouteController
+import uk.hackthis.logger
 
 class AppRunner(private val routeController: RouteController) {
 

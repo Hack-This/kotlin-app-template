@@ -16,7 +16,7 @@ repositories {
     mavenCentral()
 }
 
-group = "uk.co.lucystevens"
+group = "uk.hackthis"
 version = "0.0.2"
 
 sourceSets {
@@ -64,7 +64,7 @@ dependencies {
 }
 
 application {
-    mainClass.set("uk.co.lucystevens.LauncherKt")
+    mainClass.set("uk.hackthis.LauncherKt")
 }
 
 /**

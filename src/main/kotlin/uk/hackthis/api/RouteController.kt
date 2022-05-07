@@ -1,9 +1,9 @@
-package uk.co.lucystevens.api
+package uk.hackthis.api
 
 import io.javalin.Javalin
 import io.javalin.apibuilder.ApiBuilder.*
-import uk.co.lucystevens.api.error.ErrorHandler
-import uk.co.lucystevens.config.Config
+import uk.hackthis.api.error.ErrorHandler
+import uk.hackthis.config.Config
 
 class RouteController(
     private val exampleApi: ExampleApi,
